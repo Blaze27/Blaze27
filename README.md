@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Blaze27
-- 👀 I’m interested in pretty much everything regarding the development.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in building web applications based on Django.
+- 🌱 I’m currently building web applications based on Django.
 - 💞️ I’m looking to collaborate on open source software development projects.
-- 📫 How to reach me @ bbblaze27@gmail.com
+- 📫 You can reach me @ bbblaze27@gmail.com
 
 <!---
 Blaze27/Blaze27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
